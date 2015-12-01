@@ -1,4 +1,4 @@
-package com.samalex.entites;
+package com.samnangalex.entites;
 
 import java.io.Serializable;
 import javax.persistence.Basic;
